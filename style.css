@@ -1,0 +1,66 @@
+body {
+    background-color: #E6CBC2;
+}
+
+h1 {
+    font-style: italic;
+    color: #60220C;
+}
+
+p.giris {
+    font-style: italic;
+    font-weight: bold;
+}
+
+span.tarif {
+    font-weight: bold;
+}
+
+div.onbilgi {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div p {
+    margin: 0 5px 0 5px;
+    border-bottom: 1px solid #60220C;
+}
+
+span.onbilgi {
+    font-weight: bold;
+    color: #60220C;
+}
+
+div.ana_tarif {
+    margin-left: 494px;
+}
+
+
+div.ana_tarif h4 {
+    color: #fff;
+    background-color: #60220C;
+    border-radius: 10px;
+}
+
+div.ana_tarif h4.birinci {
+    margin-right: 785px;
+}
+
+div.ana_tarif h4.ikinci {
+    margin-right: 810px;
+}
+
+div.ana_tarif li {
+    margin-bottom: 5px;
+}
+li {
+    font-size: .9em;
+}
+
+p.afiyet {
+    font-weight: 600;
+    font-size: 1.5em;
+    text-align: right;
+    margin-right: 100px;
+}
